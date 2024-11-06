@@ -1,2 +1,4 @@
 # Projects
-This repository contains my project built using HTML, CSS, and JavaScript. It showcases responsive design and interactive elements.
+I created and deployed a simple webpage on Elon Musk's biography which taught me a lot.
+
+
